@@ -4,9 +4,12 @@
 
 I'm a Software Developer currently specializing in Frontend development, with aspirations to become a Fullstack Developer, trying to learn new things everyday.
 
+---
+### 🌐 Socials
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1028389031123365930) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-garc%C3%ADa-mercado/)
 
 ---
-
 ### 🛠️ Languages and Tools
 
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
