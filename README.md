@@ -5,7 +5,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="https://imgur.com/1mpLLXa.gif"/>
+<img align="right" alt="GIF" width="50%" height="auto" src="https://imgur.com/1mpLLXa.gif"/>
 
 ### I'm Gabriel García
 
