@@ -10,7 +10,7 @@
 ### I'm Gabriel García
 
 - 🏫 Software Engineer graduated at <a href="https://www.pucv.cl/pucv/pregrado/ingenieria-de-ejecucion-en-informatica" target="_blank" rel="noopener noreferrer">Pontificia Universidad Católica de Valparaíso</a>.
-- 🧑‍💻 Currently working as a Front End Developer in <a href="https://i-car.cl" target="_blank" rel="noopener noreferrer">i-Car</a>.
+- 🧑‍💻 Currently working as a Frontend Developer in <a href="https://www.starken.cl" target="_blank" rel="noopener noreferrer">Starken</a>.
 - ⚡ Interested to learn: Mobile development and Videogame development.
 
 ### 🛠 Tech Stack
